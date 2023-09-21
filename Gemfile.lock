@@ -8,6 +8,7 @@ GEM
   specs:
     ffi (1.15.5)
     mini_portile2 (2.8.4)
+    minitest (5.20.0)
     nokogiri (1.15.3)
       mini_portile2 (~> 2.8.2)
       racc (~> 1.4)
@@ -28,6 +29,7 @@ PLATFORMS
 
 DEPENDENCIES
   ffi
+  minitest
   rake
   rake-compiler
   ruby_memcheck

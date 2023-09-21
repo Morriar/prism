@@ -547,6 +547,7 @@ end
 require_relative "yarp/lex_compat"
 require_relative "yarp/mutation_visitor"
 require_relative "yarp/desugar_visitor"
+require_relative "yarp/simplified_visitor"
 require_relative "yarp/node"
 require_relative "yarp/ripper_compat"
 require_relative "yarp/serialize"
